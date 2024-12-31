@@ -1,4 +1,4 @@
-Inside the Bazaar: Unveiling the Lives of Local Shopkeepers
+h1 Inside the Bazaar: Unveiling the Lives of Local Shopkeepers
 * Overview:
 Inside the Bazaar is a machine learning project aimed at understanding the lives of small shop workers through exploratory data analysis (EDA). 
 The project leverages various machine learning models to gain insights into the socioeconomic landscape of local shopkeepers, focusing on pivotal variables such as age, income, 
